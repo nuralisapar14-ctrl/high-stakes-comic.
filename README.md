@@ -1,4 +1,4 @@
-# High Stakes Comic Project
+
 
 ### Links
 * **Live Site:** [Вставь тут ссылку из Settings -> Pages]
